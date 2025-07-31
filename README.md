@@ -21,7 +21,9 @@ Each model was evaluated using the following metrics:
 - Recall
 - F1-Score
 
-Results are presented in tabular and graphical format for easy comparison.
+## 📊 Model Performance Comparison
+
+![Model Performance](images/model_performance_comparison.png)
 
 ## 📈 Key Insights
 
@@ -29,13 +31,8 @@ Results are presented in tabular and graphical format for easy comparison.
 - Random Forest showed competitive results with balanced accuracy and recall.
 - Logistic Regression served as a baseline for benchmarking.
 
-## 📊 Model Performance Comparison
-
-![Model Performance](images/model_performance_comparison.png)
-
 ## 🧠 Tools & Libraries
 
 - Python (pandas, matplotlib, seaborn, scikit-learn, xgboost)
 - Jupyter Notebook
-
 
