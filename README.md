@@ -33,6 +33,7 @@ Each model was evaluated using the following metrics:
 
 ## 🧠 Tools & Libraries
 
-- Python (pandas, matplotlib, seaborn, scikit-learn, xgboost)
+- Python 
+- pandas, matplotlib, seaborn, scikit-learn, xgboost
 - Jupyter Notebook
 
